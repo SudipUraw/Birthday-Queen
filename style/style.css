@@ -248,54 +248,6 @@ canvas {
 }
 
 /* Media Queries */
-@media screen and (max-height: 1000px) {
-  .six .hat {
-    left: 49%;
-  }
-}
-
-@media screen and (max-height: 1000px) {
-  .six .img {
-    left: 49%;
-  }
-}
-
-@media screen and (max-height: 800px) {
-  .six .hat {
-    left: 46%;
-  }
-}
-
-@media screen and (max-height: 800px) {
-  .six .img {
-    left: 46%;
-  }
-}
-
-@media screen and (max-height: 700px) {
-  .six .hat {
-    left: 44%;
-  }
-}
-
-@media screen and (max-height: 700px) {
-  .six .img {
-    left: 44%;
-  }
-}
-
-@media screen and (max-height: 850px) and (max-width: 450px) {
-  .six .hat {
-    left: 42%;
-  }
-}
-
-@media screen and (max-height: 850px) and (max-width: 450px) {
-  .six .img {
-    left: 42%;
-  }
-}
-
 @media screen and (max-width: 500px) {
   .container {
     width: 90%;
@@ -307,7 +259,7 @@ canvas {
   
   .six img {
     height: 350px;
-    width: 340px;
+    width: 350px;
   }
 
   .four .text-box {
